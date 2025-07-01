@@ -41,7 +41,7 @@ Some call it *hacking*. I call it *fixing what they broke*.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ni30mi5hr4&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ni30mi5hr4&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ni30mi5hr4&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ni30mi5hr4&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
