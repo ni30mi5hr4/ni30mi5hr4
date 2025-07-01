@@ -1,4 +1,4 @@
-![Banner](https://your-banner-url-here) <!-- Replace with your banner image URL -->
+![Banner](https://github.com/ni30mi5hr4/ni30mi5hr4/blob/main/assets/banner.png) <!-- Replace with your banner image URL -->
 
 # Hello, friend.
 
