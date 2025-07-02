@@ -23,7 +23,7 @@
 🕵️‍♂️ Web Application Security & Vulnerability Research <br>
 🐞 Bug Bounty Hunter (sometimes) <br>
 🔍 API Reversing — pulling secrets from locked doors <br>
-⚙️ Handmade scripts — taking what’s hidden, giving nothing back <br>
+🗝️ Bespoke code — unlocking secrets they thought were safe <br>
 🌐 Building secure web applications
 </p>
 
